@@ -1,0 +1,45 @@
+html,body{
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    margin-bottom: 3%;
+    padding: 5px;
+    position: relative;
+}
+
+.apple-pie{
+    color: white;
+    font-size: 100px;
+    position: absolute;
+    left: 30%;
+    top: 40%;
+}
+
+section{
+    margin: 0 10% 3% 10%;
+}
+
+.info{
+    padding: 2% 20%;
+    border-bottom: 2px solid black;
+}
+
+.bolder{
+    font-weight: 500;
+}
+
+.info-cook{
+    padding: 2% 25%;
+    border-bottom: 2px solid black;
+}
+
+.ingredients{
+    padding-left: 2%;
+    list-style: none;
+}
+
+.directions{
+    padding-left: 2%;
+}
